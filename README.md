@@ -36,10 +36,12 @@ Eu sou bom com trocadilhos.
 <hr>
 
 <h2 id="licenca">📝 Licença</h2>
+
 - Este projeto está sob a licença [MIT](https://github.com/Arco-de-Treinamento/Shishin-no-Ken/blob/main/LICENSE).
 
 <hr>
 
 <div align = "center">
-  👋 Feito por [JosManoel](https://github.com/JosManoel) com 🕹️ , 🎧 e 💻.
+  
+  👋🏾 Feito por [JosManoel](https://github.com/JosManoel) com 🕹️ , 🎧 e 💻.
 </div> 
